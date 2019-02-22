@@ -1,0 +1,6 @@
+[submodule "dziennik_php_frontend"]
+	path = dziennik_php_frontend
+	url = https://github.com/JakubKoralewski/dziennik_php_frontend
+[submodule "dziennik_php_backend"]
+	path = dziennik_php_backend
+	url = https://github.com/JakubKoralewski/dziennik_php_backend
